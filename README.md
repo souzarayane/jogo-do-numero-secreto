@@ -33,4 +33,7 @@ Este é um simples jogo do número secreto desenvolvido em JavaScript para ser e
 
 - Este jogo utiliza a biblioteca `responsiveVoice` para a funcionalidade de texto para voz. Para mais informações, consulte [responsivevoice.org](https://responsivevoice.org/).
 
+## Tela do Jogo
+![Texto Alternativo](https://github.com/souzarayane/jogo-do-numero-secreto/blob/main/Tela%20Jogo.png)
+
 **Divirta-se jogando o Jogo do Número Secreto!**
